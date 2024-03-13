@@ -33,6 +33,7 @@ Console.WriteLine(FindAvg(arr));
 
 static int FindMax(int[] tab)
 {
+    Console.WriteLine("Thats a huge change");
     int max = 0;
     for (int i = 0; i < tab.Length; i++)
     {
