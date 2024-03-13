@@ -51,4 +51,4 @@ static int FindMaxTheNewOne(int[] tab)
 
 int[] tab = new []{1,2,-3,-8,3,16,27,1,18};
 
-Console.WriteLine(FindMax(tab));
+Console.WriteLine(FindMaxTheNewOne(tab));
