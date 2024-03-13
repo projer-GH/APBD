@@ -31,9 +31,11 @@ int[] arr = new []{5,6,7,9};
 
 Console.WriteLine(FindAvg(arr));
 
-static int FindMax(int[] tab)
+static int FindMaxTheNewOne(int[] tab)
 {
+
     Console.WriteLine("Thats a huge change");
+
     int max = 0;
     for (int i = 0; i < tab.Length; i++)
     {
